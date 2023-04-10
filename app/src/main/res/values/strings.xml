@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <!-- android_large___2 strings -->
+
+
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="hp_string">HP</string>
+    <string name="atk_string">ATK</string>
+    <string name="def_string">DEF</string>
+    <string name="spd_string">SPD</string>
+</resources>
