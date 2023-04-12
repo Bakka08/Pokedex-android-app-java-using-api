@@ -5,7 +5,7 @@ The app features a search section where users can search for a Pokemon by name, 
 
 The app is simple and easy to use.
 
-# preview
+# Preview
 
 ![Alt Text](Animation.gif)
 
