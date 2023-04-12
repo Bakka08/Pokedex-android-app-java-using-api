@@ -7,7 +7,7 @@ The app is simple and easy to use.
 
 # preview
 
-![Alt Text](./Animation.gif)
+![Alt Text](Animation.gif)
 
 # Features:
 
